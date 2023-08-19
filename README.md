@@ -1,1 +1,1 @@
-gets all emails involving an address and summarizes them
+gets all emails involving an address and summarizes them (thunderbird)
